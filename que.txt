@@ -1,0 +1,25 @@
+Project :::: Contact Management System
+Problem Statement:
+Develop a contact management system that allows users to store, update, 
+and retrieve contact information efficiently. The system should support 
+adding new contacts, searching for contacts, updating contact details, 
+and deleting contacts.
+
+Features:
+Add New Contacts: Allow users to add new contacts with details such as name, phone number, and email address.
+Search Contacts: Implement a search functionality to find contacts by name or phone number.
+Update Contact Details: Enable users to update contact details such as phone number or email address.
+Delete Contacts: Allow users to delete contacts from the system.
+Display Contacts: Display all contacts stored in the system.
+
+Implementation:
+Use dictionaries to store contact information, with each contact represented as a key-value pair.
+Define functions to handle adding, searching, updating, and deleting contacts.
+Implement flow control to navigate through different functionalities of the contact management system.
+Feel free to choose one of these projects to work on, and if you need any further clarification or assistance with your code, just let me know!
+
+
+
+
+
+
